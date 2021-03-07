@@ -1,0 +1,7 @@
+body {
+    background-color: slategray;
+}
+
+.card {
+    outline: 1px solid pink
+}
